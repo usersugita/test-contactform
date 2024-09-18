@@ -1,4 +1,4 @@
-# test-contactform
+![index](https://github.com/user-attachments/assets/c3fa5b9b-260a-48a2-8ced-2949b66f5d44)# test-contactform
 ## 環境構築  
 
 Dockerビルド  
@@ -22,7 +22,9 @@ Laravel環境構築
 ・PHP 7.4.9  
 ・Laravel 8.83.27  
 ・Mysql 8.0.26
-## ER図
+## ER図  
+![スクリーンショット 2024-09-18 130737](https://github.com/user-attachments/assets/82477d32-369e-4e7c-8eac-ec6d486ea3b7)  
+
 ## URL  
 ・開発環境：http://localhost/  
 ・phpMyadmin：http://localhost:8080/
