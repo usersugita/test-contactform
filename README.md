@@ -2,7 +2,7 @@
 
 Dockerビルド  
 
-1.git clone git@github.com:usersugita/test-contactform.git  
+1.git clone https://github.com/usersugita/test-contactform.git  
 2.docker-composer up -d --build  
 ＊MYSQLは、OSによって起動しない場合がありますのでそれぞれのPCに合わせて docker-compose.yml ファイルを編集してください。  
 
