@@ -14,6 +14,9 @@ Laravel環境構築
 6.php artisan db:seed  
 
   
-## 使用技術
+## 使用技術  
+・PHP 7.4.9  
+・Laravel 8.83.27  
+・Mysql 8.0.26
 ## ER図
 ## URL
